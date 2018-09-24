@@ -1,2 +1,2 @@
 # structures
-Routines to wriates molecular structures
+Routines to write molecular structures with specific geometrys and different atoms.
